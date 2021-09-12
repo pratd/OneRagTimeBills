@@ -1,0 +1,903 @@
+[
+  {
+    "id": 1,
+    "investor_id": 19,
+    "startup_name": "Aranda-Tamayo",
+    "invested_ammount": 81000,
+    "percentage_fees": 15,
+    "date_added": "2021-01-15 15:38:21+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 2,
+    "investor_id": 12,
+    "startup_name": "Bay\u00f3n-Huerta",
+    "invested_ammount": 65000,
+    "percentage_fees": 15,
+    "date_added": "2020-01-19 16:01:26+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 3,
+    "investor_id": 12,
+    "startup_name": "Yuste Ltd",
+    "invested_ammount": 60000,
+    "percentage_fees": 15,
+    "date_added": "2019-05-17 19:28:18+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 4,
+    "investor_id": 9,
+    "startup_name": "Borr\u00e1s Ltd",
+    "invested_ammount": 88000,
+    "percentage_fees": 13,
+    "date_added": "2018-11-29 12:16:42+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 5,
+    "investor_id": 19,
+    "startup_name": "Rebollo, Calleja and Castells",
+    "invested_ammount": 71000,
+    "percentage_fees": 15,
+    "date_added": "2018-06-29 00:41:33+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 6,
+    "investor_id": 5,
+    "startup_name": "G\u00e1mez-Lopez",
+    "invested_ammount": 82000,
+    "percentage_fees": 10,
+    "date_added": "2019-09-10 20:29:39+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 7,
+    "investor_id": 3,
+    "startup_name": "Esparza, Reina and Miralles",
+    "invested_ammount": 53000,
+    "percentage_fees": 14,
+    "date_added": "2017-05-25 21:00:40+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 8,
+    "investor_id": 17,
+    "startup_name": "Manj\u00f3n, Acosta and Alegria",
+    "invested_ammount": 76000,
+    "percentage_fees": 11,
+    "date_added": "2020-02-16 18:25:30+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 9,
+    "investor_id": 6,
+    "startup_name": "Valent\u00edn, Figuerola and Girona",
+    "invested_ammount": 46000,
+    "percentage_fees": 15,
+    "date_added": "2020-05-22 15:17:23+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 10,
+    "investor_id": 14,
+    "startup_name": "Torrents-Amores",
+    "invested_ammount": 59000,
+    "percentage_fees": 14,
+    "date_added": "2020-06-05 04:40:06+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 11,
+    "investor_id": 8,
+    "startup_name": "Morcillo, Arnaiz and Moll",
+    "invested_ammount": 82000,
+    "percentage_fees": 15,
+    "date_added": "2017-08-28 05:54:03+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 12,
+    "investor_id": 11,
+    "startup_name": "Agust\u00ed PLC",
+    "invested_ammount": 98000,
+    "percentage_fees": 11,
+    "date_added": "2020-03-30 11:35:06+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 13,
+    "investor_id": 16,
+    "startup_name": "Mayol-Garay",
+    "invested_ammount": 72000,
+    "percentage_fees": 12,
+    "date_added": "2017-12-22 23:54:34+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 14,
+    "investor_id": 3,
+    "startup_name": "Pozo, Taboada and Duarte",
+    "invested_ammount": 67000,
+    "percentage_fees": 11,
+    "date_added": "2020-09-21 21:50:25+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 15,
+    "investor_id": 7,
+    "startup_name": "Naranjo-Sureda",
+    "invested_ammount": 78000,
+    "percentage_fees": 12,
+    "date_added": "2018-03-14 11:23:03+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 16,
+    "investor_id": 10,
+    "startup_name": "Gibert Inc",
+    "invested_ammount": 47000,
+    "percentage_fees": 12,
+    "date_added": "2017-03-30 12:30:04+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 17,
+    "investor_id": 14,
+    "startup_name": "Ben\u00edtez, Llopis and Nicolau",
+    "invested_ammount": 73000,
+    "percentage_fees": 10,
+    "date_added": "2017-08-28 13:51:23+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 18,
+    "investor_id": 16,
+    "startup_name": "Bru Group",
+    "invested_ammount": 89000,
+    "percentage_fees": 14,
+    "date_added": "2020-07-31 10:04:10+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 19,
+    "investor_id": 4,
+    "startup_name": "Ledesma, Casado and R\u00edo",
+    "invested_ammount": 98000,
+    "percentage_fees": 11,
+    "date_added": "2018-02-07 04:17:09+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 20,
+    "investor_id": 4,
+    "startup_name": "Bar\u00f3n LLC",
+    "invested_ammount": 83000,
+    "percentage_fees": 10,
+    "date_added": "2019-05-14 08:28:44+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 21,
+    "investor_id": 12,
+    "startup_name": "Calleja LLC",
+    "invested_ammount": 69000,
+    "percentage_fees": 14,
+    "date_added": "2020-05-05 21:39:02+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 22,
+    "investor_id": 11,
+    "startup_name": "Mercader-Cepeda",
+    "invested_ammount": 45000,
+    "percentage_fees": 13,
+    "date_added": "2018-09-30 23:36:18+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 23,
+    "investor_id": 16,
+    "startup_name": "Dominguez Group",
+    "invested_ammount": 59000,
+    "percentage_fees": 14,
+    "date_added": "2020-06-28 01:30:41+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 24,
+    "investor_id": 1,
+    "startup_name": "Benavides-Carb\u00f3",
+    "invested_ammount": 58000,
+    "percentage_fees": 13,
+    "date_added": "2019-05-28 04:45:13+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 25,
+    "investor_id": 12,
+    "startup_name": "Ord\u00f3\u00f1ez-Torrents",
+    "invested_ammount": 47000,
+    "percentage_fees": 15,
+    "date_added": "2019-07-09 08:24:12+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 26,
+    "investor_id": 14,
+    "startup_name": "Rojas-Cabeza",
+    "invested_ammount": 51000,
+    "percentage_fees": 11,
+    "date_added": "2018-07-29 10:48:41+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 27,
+    "investor_id": 1,
+    "startup_name": "Yuste Inc",
+    "invested_ammount": 62000,
+    "percentage_fees": 15,
+    "date_added": "2017-09-25 04:34:36+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 28,
+    "investor_id": 2,
+    "startup_name": "Aliaga Group",
+    "invested_ammount": 41000,
+    "percentage_fees": 15,
+    "date_added": "2019-08-25 10:28:04+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 29,
+    "investor_id": 6,
+    "startup_name": "Olivera and Sons",
+    "invested_ammount": 62000,
+    "percentage_fees": 14,
+    "date_added": "2018-04-10 07:27:06+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 30,
+    "investor_id": 4,
+    "startup_name": "Ballester Group",
+    "invested_ammount": 68000,
+    "percentage_fees": 13,
+    "date_added": "2018-02-25 04:30:06+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 31,
+    "investor_id": 19,
+    "startup_name": "Gimeno and Sons",
+    "invested_ammount": 85000,
+    "percentage_fees": 13,
+    "date_added": "2020-09-20 03:08:26+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 32,
+    "investor_id": 18,
+    "startup_name": "Peinado-Lobato",
+    "invested_ammount": 43000,
+    "percentage_fees": 11,
+    "date_added": "2020-09-20 03:09:19+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 33,
+    "investor_id": 20,
+    "startup_name": "Valenzuela LLC",
+    "invested_ammount": 56000,
+    "percentage_fees": 12,
+    "date_added": "2019-12-25 10:48:58+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 34,
+    "investor_id": 14,
+    "startup_name": "Gir\u00f3n Inc",
+    "invested_ammount": 48000,
+    "percentage_fees": 12,
+    "date_added": "2019-11-16 13:42:56+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 35,
+    "investor_id": 12,
+    "startup_name": "Palomino-Rold\u00e1n",
+    "invested_ammount": 50000,
+    "percentage_fees": 14,
+    "date_added": "2019-01-16 01:28:07+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 36,
+    "investor_id": 11,
+    "startup_name": "Palomino-Exp\u00f3sito",
+    "invested_ammount": 76000,
+    "percentage_fees": 15,
+    "date_added": "2017-03-16 17:47:29+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 37,
+    "investor_id": 9,
+    "startup_name": "Verdugo PLC",
+    "invested_ammount": 61000,
+    "percentage_fees": 14,
+    "date_added": "2018-03-16 03:56:05+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 38,
+    "investor_id": 16,
+    "startup_name": "Lled\u00f3 Ltd",
+    "invested_ammount": 78000,
+    "percentage_fees": 12,
+    "date_added": "2019-10-23 09:02:49+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 39,
+    "investor_id": 8,
+    "startup_name": "Prada and Sons",
+    "invested_ammount": 41000,
+    "percentage_fees": 12,
+    "date_added": "2019-09-16 21:39:34+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 40,
+    "investor_id": 8,
+    "startup_name": "Ojeda Inc",
+    "invested_ammount": 63000,
+    "percentage_fees": 10,
+    "date_added": "2017-07-12 06:47:20+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 41,
+    "investor_id": 18,
+    "startup_name": "Garmendia Ltd",
+    "invested_ammount": 42000,
+    "percentage_fees": 15,
+    "date_added": "2017-11-09 08:33:34+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 42,
+    "investor_id": 8,
+    "startup_name": "P\u00e9rez-Casanova",
+    "invested_ammount": 64000,
+    "percentage_fees": 11,
+    "date_added": "2018-08-10 04:20:25+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 43,
+    "investor_id": 12,
+    "startup_name": "Carb\u00f3 PLC",
+    "invested_ammount": 76000,
+    "percentage_fees": 15,
+    "date_added": "2020-07-26 13:11:44+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 44,
+    "investor_id": 12,
+    "startup_name": "Linares, Pomares and Moya",
+    "invested_ammount": 58000,
+    "percentage_fees": 10,
+    "date_added": "2019-07-30 03:03:22+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 45,
+    "investor_id": 15,
+    "startup_name": "Pablo-Beltr\u00e1n",
+    "invested_ammount": 79000,
+    "percentage_fees": 12,
+    "date_added": "2018-02-23 12:55:54+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 46,
+    "investor_id": 12,
+    "startup_name": "Vega Group",
+    "invested_ammount": 92000,
+    "percentage_fees": 14,
+    "date_added": "2020-04-24 20:32:43+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 47,
+    "investor_id": 9,
+    "startup_name": "Abell\u00e1n and Sons",
+    "invested_ammount": 52000,
+    "percentage_fees": 15,
+    "date_added": "2017-05-18 19:54:12+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 48,
+    "investor_id": 2,
+    "startup_name": "Santamar\u00eda LLC",
+    "invested_ammount": 70000,
+    "percentage_fees": 13,
+    "date_added": "2020-11-14 23:31:22+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 49,
+    "investor_id": 16,
+    "startup_name": "Sanchez, Soria and Jaume",
+    "invested_ammount": 67000,
+    "percentage_fees": 13,
+    "date_added": "2017-05-23 03:12:01+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 50,
+    "investor_id": 2,
+    "startup_name": "Reyes, Gal\u00e1n and Gimenez",
+    "invested_ammount": 59000,
+    "percentage_fees": 15,
+    "date_added": "2021-01-25 03:21:32+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 51,
+    "investor_id": 10,
+    "startup_name": "Torrent Inc",
+    "invested_ammount": 82000,
+    "percentage_fees": 15,
+    "date_added": "2019-12-31 13:51:29+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 52,
+    "investor_id": 13,
+    "startup_name": "Cisneros-Mu\u00f1oz",
+    "invested_ammount": 93000,
+    "percentage_fees": 15,
+    "date_added": "2018-04-19 04:05:58+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 53,
+    "investor_id": 2,
+    "startup_name": "Baeza Inc",
+    "invested_ammount": 40000,
+    "percentage_fees": 11,
+    "date_added": "2019-04-12 03:28:20+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 54,
+    "investor_id": 20,
+    "startup_name": "Caparr\u00f3s-Reyes",
+    "invested_ammount": 84000,
+    "percentage_fees": 12,
+    "date_added": "2017-04-01 03:05:58+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 55,
+    "investor_id": 17,
+    "startup_name": "Luj\u00e1n Group",
+    "invested_ammount": 45000,
+    "percentage_fees": 10,
+    "date_added": "2020-05-25 15:54:08+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 56,
+    "investor_id": 18,
+    "startup_name": "Salazar Group",
+    "invested_ammount": 54000,
+    "percentage_fees": 15,
+    "date_added": "2020-08-20 07:05:46+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 57,
+    "investor_id": 5,
+    "startup_name": "Padilla-Bar\u00f3",
+    "invested_ammount": 72000,
+    "percentage_fees": 10,
+    "date_added": "2019-05-11 05:58:59+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 58,
+    "investor_id": 18,
+    "startup_name": "Gir\u00f3n-Aguilera",
+    "invested_ammount": 41000,
+    "percentage_fees": 11,
+    "date_added": "2019-08-27 15:35:02+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 59,
+    "investor_id": 18,
+    "startup_name": "R\u00edos PLC",
+    "invested_ammount": 43000,
+    "percentage_fees": 14,
+    "date_added": "2017-02-21 21:33:27+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 60,
+    "investor_id": 17,
+    "startup_name": "Mar\u00edn-Jurado",
+    "invested_ammount": 80000,
+    "percentage_fees": 13,
+    "date_added": "2019-01-11 17:34:41+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 61,
+    "investor_id": 7,
+    "startup_name": "Escalona, Fr\u00edas and Sevillano",
+    "invested_ammount": 60000,
+    "percentage_fees": 11,
+    "date_added": "2019-09-08 18:59:21+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 62,
+    "investor_id": 7,
+    "startup_name": "Galan-Hern\u00e1ndez",
+    "invested_ammount": 98000,
+    "percentage_fees": 12,
+    "date_added": "2017-11-27 10:40:03+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 63,
+    "investor_id": 3,
+    "startup_name": "Polo, Cerd\u00e1 and Sanabria",
+    "invested_ammount": 54000,
+    "percentage_fees": 15,
+    "date_added": "2018-11-24 10:21:37+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 64,
+    "investor_id": 12,
+    "startup_name": "Ba\u00f1os, Gallart and Teruel",
+    "invested_ammount": 100000,
+    "percentage_fees": 13,
+    "date_added": "2017-02-17 23:15:07+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 65,
+    "investor_id": 9,
+    "startup_name": "V\u00e9lez-Rinc\u00f3n",
+    "invested_ammount": 74000,
+    "percentage_fees": 12,
+    "date_added": "2017-07-08 09:09:47+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 66,
+    "investor_id": 20,
+    "startup_name": "Redondo-Barco",
+    "invested_ammount": 79000,
+    "percentage_fees": 11,
+    "date_added": "2017-08-07 12:08:15+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 67,
+    "investor_id": 12,
+    "startup_name": "Castilla Group",
+    "invested_ammount": 66000,
+    "percentage_fees": 14,
+    "date_added": "2020-08-23 21:19:18+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 68,
+    "investor_id": 15,
+    "startup_name": "Noguera-Miralles",
+    "invested_ammount": 80000,
+    "percentage_fees": 12,
+    "date_added": "2020-08-03 12:23:46+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 69,
+    "investor_id": 18,
+    "startup_name": "Sanchez, Tello and Villalonga",
+    "invested_ammount": 47000,
+    "percentage_fees": 12,
+    "date_added": "2018-12-29 05:30:25+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 70,
+    "investor_id": 19,
+    "startup_name": "Franch, Sanmiguel and Peinado",
+    "invested_ammount": 54000,
+    "percentage_fees": 12,
+    "date_added": "2020-09-10 11:47:16+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 71,
+    "investor_id": 15,
+    "startup_name": "Ferrer, Lucas and Acevedo",
+    "invested_ammount": 65000,
+    "percentage_fees": 14,
+    "date_added": "2017-03-17 14:57:46+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 72,
+    "investor_id": 19,
+    "startup_name": "Rosa PLC",
+    "invested_ammount": 43000,
+    "percentage_fees": 10,
+    "date_added": "2020-08-23 11:38:41+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 73,
+    "investor_id": 13,
+    "startup_name": "Fiol, Jove and Castell\u00f3",
+    "invested_ammount": 84000,
+    "percentage_fees": 13,
+    "date_added": "2017-11-21 10:53:26+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 74,
+    "investor_id": 9,
+    "startup_name": "Laguna Inc",
+    "invested_ammount": 46000,
+    "percentage_fees": 12,
+    "date_added": "2020-03-21 14:33:52+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 75,
+    "investor_id": 9,
+    "startup_name": "Montero-R\u00f3denas",
+    "invested_ammount": 52000,
+    "percentage_fees": 10,
+    "date_added": "2020-07-25 20:53:42+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 76,
+    "investor_id": 9,
+    "startup_name": "J\u00f3dar-El\u00edas",
+    "invested_ammount": 69000,
+    "percentage_fees": 14,
+    "date_added": "2019-05-25 14:03:54+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 77,
+    "investor_id": 11,
+    "startup_name": "Rey, Anaya and Calzada",
+    "invested_ammount": 48000,
+    "percentage_fees": 12,
+    "date_added": "2019-12-07 10:29:57+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 78,
+    "investor_id": 20,
+    "startup_name": "Guill\u00e9n-Ni\u00f1o",
+    "invested_ammount": 70000,
+    "percentage_fees": 11,
+    "date_added": "2020-01-10 22:32:54+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 79,
+    "investor_id": 13,
+    "startup_name": "Briones, Salvador and Mas",
+    "invested_ammount": 51000,
+    "percentage_fees": 13,
+    "date_added": "2018-09-24 14:20:01+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 80,
+    "investor_id": 14,
+    "startup_name": "Llano-Mayol",
+    "invested_ammount": 91000,
+    "percentage_fees": 14,
+    "date_added": "2020-06-23 19:03:49+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 81,
+    "investor_id": 18,
+    "startup_name": "Pascual-Dominguez",
+    "invested_ammount": 74000,
+    "percentage_fees": 14,
+    "date_added": "2020-11-19 11:44:49+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 82,
+    "investor_id": 14,
+    "startup_name": "Alcal\u00e1 and Sons",
+    "invested_ammount": 88000,
+    "percentage_fees": 12,
+    "date_added": "2019-01-18 23:14:05+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 83,
+    "investor_id": 17,
+    "startup_name": "Santana PLC",
+    "invested_ammount": 54000,
+    "percentage_fees": 14,
+    "date_added": "2017-07-14 22:30:16+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 84,
+    "investor_id": 17,
+    "startup_name": "Alarc\u00f3n, Quir\u00f3s and Pozo",
+    "invested_ammount": 67000,
+    "percentage_fees": 11,
+    "date_added": "2018-09-12 00:13:41+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 85,
+    "investor_id": 11,
+    "startup_name": "Company LLC",
+    "invested_ammount": 68000,
+    "percentage_fees": 13,
+    "date_added": "2017-11-06 01:55:22+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 86,
+    "investor_id": 3,
+    "startup_name": "Bermejo, Garmendia and V\u00e1zquez",
+    "invested_ammount": 46000,
+    "percentage_fees": 15,
+    "date_added": "2020-11-01 20:11:56+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 87,
+    "investor_id": 2,
+    "startup_name": "G\u00e1mez LLC",
+    "invested_ammount": 88000,
+    "percentage_fees": 10,
+    "date_added": "2019-08-01 04:08:31+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 88,
+    "investor_id": 3,
+    "startup_name": "Briones-Guillen",
+    "invested_ammount": 56000,
+    "percentage_fees": 12,
+    "date_added": "2017-07-08 17:09:25+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 89,
+    "investor_id": 10,
+    "startup_name": "Collado, Fr\u00edas and Figueroa",
+    "invested_ammount": 56000,
+    "percentage_fees": 14,
+    "date_added": "2017-03-17 22:36:54+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 90,
+    "investor_id": 6,
+    "startup_name": "Vilanova-Galv\u00e1n",
+    "invested_ammount": 61000,
+    "percentage_fees": 10,
+    "date_added": "2021-02-02 01:18:25+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 91,
+    "investor_id": 1,
+    "startup_name": "Jover, Santiago and Hierro",
+    "invested_ammount": 60000,
+    "percentage_fees": 11,
+    "date_added": "2017-03-13 11:58:17+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 92,
+    "investor_id": 7,
+    "startup_name": "Trujillo and Sons",
+    "invested_ammount": 48000,
+    "percentage_fees": 10,
+    "date_added": "2017-10-24 21:11:05+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 93,
+    "investor_id": 12,
+    "startup_name": "Coca-Llobet",
+    "invested_ammount": 54000,
+    "percentage_fees": 12,
+    "date_added": "2021-02-05 17:27:03+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 94,
+    "investor_id": 20,
+    "startup_name": "C\u00e1rdenas-Palomo",
+    "invested_ammount": 94000,
+    "percentage_fees": 12,
+    "date_added": "2019-11-21 16:58:13+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 95,
+    "investor_id": 18,
+    "startup_name": "Escobar PLC",
+    "invested_ammount": 54000,
+    "percentage_fees": 11,
+    "date_added": "2019-09-29 08:59:01+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 96,
+    "investor_id": 17,
+    "startup_name": "Santamaria, Falc\u00f3n and Mart\u00ednez",
+    "invested_ammount": 60000,
+    "percentage_fees": 15,
+    "date_added": "2020-12-14 14:21:02+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 97,
+    "investor_id": 15,
+    "startup_name": "Maldonado Ltd",
+    "invested_ammount": 99000,
+    "percentage_fees": 14,
+    "date_added": "2020-06-07 23:34:37+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 98,
+    "investor_id": 10,
+    "startup_name": "Gomila PLC",
+    "invested_ammount": 81000,
+    "percentage_fees": 11,
+    "date_added": "2019-05-06 15:05:09+00:00",
+    "fees_type": "upfront"
+  },
+  {
+    "id": 99,
+    "investor_id": 20,
+    "startup_name": "Larra\u00f1aga LLC",
+    "invested_ammount": 83000,
+    "percentage_fees": 13,
+    "date_added": "2020-11-05 14:32:10+00:00",
+    "fees_type": "yearly"
+  },
+  {
+    "id": 100,
+    "investor_id": 10,
+    "startup_name": "Ferrer-Atienza",
+    "invested_ammount": 92000,
+    "percentage_fees": 15,
+    "date_added": "2019-09-06 19:58:40+00:00",
+    "fees_type": "yearly"
+  }
+]
+

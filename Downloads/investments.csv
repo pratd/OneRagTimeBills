@@ -1,0 +1,101 @@
+id,investor_id,startup_name,invested_ammount,percentage_fees,date_added,fees_type
+1,19,Aranda-Tamayo,81000,15,2021-01-15 15:38:21+00:00,upfront
+2,12,Bayón-Huerta,65000,15,2020-01-19 16:01:26+00:00,upfront
+3,12,Yuste Ltd,60000,15,2019-05-17 19:28:18+00:00,yearly
+4,9,Borrás Ltd,88000,13,2018-11-29 12:16:42+00:00,upfront
+5,19,"Rebollo, Calleja and Castells",71000,15,2018-06-29 00:41:33+00:00,yearly
+6,5,Gámez-Lopez,82000,10,2019-09-10 20:29:39+00:00,upfront
+7,3,"Esparza, Reina and Miralles",53000,14,2017-05-25 21:00:40+00:00,upfront
+8,17,"Manjón, Acosta and Alegria",76000,11,2020-02-16 18:25:30+00:00,upfront
+9,6,"Valentín, Figuerola and Girona",46000,15,2020-05-22 15:17:23+00:00,upfront
+10,14,Torrents-Amores,59000,14,2020-06-05 04:40:06+00:00,yearly
+11,8,"Morcillo, Arnaiz and Moll",82000,15,2017-08-28 05:54:03+00:00,upfront
+12,11,Agustí PLC,98000,11,2020-03-30 11:35:06+00:00,upfront
+13,16,Mayol-Garay,72000,12,2017-12-22 23:54:34+00:00,yearly
+14,3,"Pozo, Taboada and Duarte",67000,11,2020-09-21 21:50:25+00:00,yearly
+15,7,Naranjo-Sureda,78000,12,2018-03-14 11:23:03+00:00,upfront
+16,10,Gibert Inc,47000,12,2017-03-30 12:30:04+00:00,upfront
+17,14,"Benítez, Llopis and Nicolau",73000,10,2017-08-28 13:51:23+00:00,yearly
+18,16,Bru Group,89000,14,2020-07-31 10:04:10+00:00,yearly
+19,4,"Ledesma, Casado and Río",98000,11,2018-02-07 04:17:09+00:00,upfront
+20,4,Barón LLC,83000,10,2019-05-14 08:28:44+00:00,yearly
+21,12,Calleja LLC,69000,14,2020-05-05 21:39:02+00:00,upfront
+22,11,Mercader-Cepeda,45000,13,2018-09-30 23:36:18+00:00,upfront
+23,16,Dominguez Group,59000,14,2020-06-28 01:30:41+00:00,yearly
+24,1,Benavides-Carbó,58000,13,2019-05-28 04:45:13+00:00,yearly
+25,12,Ordóñez-Torrents,47000,15,2019-07-09 08:24:12+00:00,upfront
+26,14,Rojas-Cabeza,51000,11,2018-07-29 10:48:41+00:00,yearly
+27,1,Yuste Inc,62000,15,2017-09-25 04:34:36+00:00,yearly
+28,2,Aliaga Group,41000,15,2019-08-25 10:28:04+00:00,yearly
+29,6,Olivera and Sons,62000,14,2018-04-10 07:27:06+00:00,yearly
+30,4,Ballester Group,68000,13,2018-02-25 04:30:06+00:00,yearly
+31,19,Gimeno and Sons,85000,13,2020-09-20 03:08:26+00:00,yearly
+32,18,Peinado-Lobato,43000,11,2020-09-20 03:09:19+00:00,yearly
+33,20,Valenzuela LLC,56000,12,2019-12-25 10:48:58+00:00,yearly
+34,14,Girón Inc,48000,12,2019-11-16 13:42:56+00:00,yearly
+35,12,Palomino-Roldán,50000,14,2019-01-16 01:28:07+00:00,upfront
+36,11,Palomino-Expósito,76000,15,2017-03-16 17:47:29+00:00,upfront
+37,9,Verdugo PLC,61000,14,2018-03-16 03:56:05+00:00,yearly
+38,16,Lledó Ltd,78000,12,2019-10-23 09:02:49+00:00,yearly
+39,8,Prada and Sons,41000,12,2019-09-16 21:39:34+00:00,yearly
+40,8,Ojeda Inc,63000,10,2017-07-12 06:47:20+00:00,yearly
+41,18,Garmendia Ltd,42000,15,2017-11-09 08:33:34+00:00,upfront
+42,8,Pérez-Casanova,64000,11,2018-08-10 04:20:25+00:00,upfront
+43,12,Carbó PLC,76000,15,2020-07-26 13:11:44+00:00,upfront
+44,12,"Linares, Pomares and Moya",58000,10,2019-07-30 03:03:22+00:00,upfront
+45,15,Pablo-Beltrán,79000,12,2018-02-23 12:55:54+00:00,yearly
+46,12,Vega Group,92000,14,2020-04-24 20:32:43+00:00,yearly
+47,9,Abellán and Sons,52000,15,2017-05-18 19:54:12+00:00,yearly
+48,2,Santamaría LLC,70000,13,2020-11-14 23:31:22+00:00,upfront
+49,16,"Sanchez, Soria and Jaume",67000,13,2017-05-23 03:12:01+00:00,upfront
+50,2,"Reyes, Galán and Gimenez",59000,15,2021-01-25 03:21:32+00:00,yearly
+51,10,Torrent Inc,82000,15,2019-12-31 13:51:29+00:00,upfront
+52,13,Cisneros-Muñoz,93000,15,2018-04-19 04:05:58+00:00,upfront
+53,2,Baeza Inc,40000,11,2019-04-12 03:28:20+00:00,upfront
+54,20,Caparrós-Reyes,84000,12,2017-04-01 03:05:58+00:00,upfront
+55,17,Luján Group,45000,10,2020-05-25 15:54:08+00:00,yearly
+56,18,Salazar Group,54000,15,2020-08-20 07:05:46+00:00,upfront
+57,5,Padilla-Baró,72000,10,2019-05-11 05:58:59+00:00,yearly
+58,18,Girón-Aguilera,41000,11,2019-08-27 15:35:02+00:00,upfront
+59,18,Ríos PLC,43000,14,2017-02-21 21:33:27+00:00,yearly
+60,17,Marín-Jurado,80000,13,2019-01-11 17:34:41+00:00,yearly
+61,7,"Escalona, Frías and Sevillano",60000,11,2019-09-08 18:59:21+00:00,upfront
+62,7,Galan-Hernández,98000,12,2017-11-27 10:40:03+00:00,yearly
+63,3,"Polo, Cerdá and Sanabria",54000,15,2018-11-24 10:21:37+00:00,yearly
+64,12,"Baños, Gallart and Teruel",100000,13,2017-02-17 23:15:07+00:00,upfront
+65,9,Vélez-Rincón,74000,12,2017-07-08 09:09:47+00:00,yearly
+66,20,Redondo-Barco,79000,11,2017-08-07 12:08:15+00:00,yearly
+67,12,Castilla Group,66000,14,2020-08-23 21:19:18+00:00,upfront
+68,15,Noguera-Miralles,80000,12,2020-08-03 12:23:46+00:00,upfront
+69,18,"Sanchez, Tello and Villalonga",47000,12,2018-12-29 05:30:25+00:00,upfront
+70,19,"Franch, Sanmiguel and Peinado",54000,12,2020-09-10 11:47:16+00:00,upfront
+71,15,"Ferrer, Lucas and Acevedo",65000,14,2017-03-17 14:57:46+00:00,yearly
+72,19,Rosa PLC,43000,10,2020-08-23 11:38:41+00:00,yearly
+73,13,"Fiol, Jove and Castelló",84000,13,2017-11-21 10:53:26+00:00,yearly
+74,9,Laguna Inc,46000,12,2020-03-21 14:33:52+00:00,yearly
+75,9,Montero-Ródenas,52000,10,2020-07-25 20:53:42+00:00,upfront
+76,9,Jódar-Elías,69000,14,2019-05-25 14:03:54+00:00,upfront
+77,11,"Rey, Anaya and Calzada",48000,12,2019-12-07 10:29:57+00:00,upfront
+78,20,Guillén-Niño,70000,11,2020-01-10 22:32:54+00:00,yearly
+79,13,"Briones, Salvador and Mas",51000,13,2018-09-24 14:20:01+00:00,upfront
+80,14,Llano-Mayol,91000,14,2020-06-23 19:03:49+00:00,upfront
+81,18,Pascual-Dominguez,74000,14,2020-11-19 11:44:49+00:00,upfront
+82,14,Alcalá and Sons,88000,12,2019-01-18 23:14:05+00:00,upfront
+83,17,Santana PLC,54000,14,2017-07-14 22:30:16+00:00,yearly
+84,17,"Alarcón, Quirós and Pozo",67000,11,2018-09-12 00:13:41+00:00,upfront
+85,11,Company LLC,68000,13,2017-11-06 01:55:22+00:00,upfront
+86,3,"Bermejo, Garmendia and Vázquez",46000,15,2020-11-01 20:11:56+00:00,yearly
+87,2,Gámez LLC,88000,10,2019-08-01 04:08:31+00:00,upfront
+88,3,Briones-Guillen,56000,12,2017-07-08 17:09:25+00:00,yearly
+89,10,"Collado, Frías and Figueroa",56000,14,2017-03-17 22:36:54+00:00,upfront
+90,6,Vilanova-Galván,61000,10,2021-02-02 01:18:25+00:00,upfront
+91,1,"Jover, Santiago and Hierro",60000,11,2017-03-13 11:58:17+00:00,yearly
+92,7,Trujillo and Sons,48000,10,2017-10-24 21:11:05+00:00,yearly
+93,12,Coca-Llobet,54000,12,2021-02-05 17:27:03+00:00,upfront
+94,20,Cárdenas-Palomo,94000,12,2019-11-21 16:58:13+00:00,yearly
+95,18,Escobar PLC,54000,11,2019-09-29 08:59:01+00:00,yearly
+96,17,"Santamaria, Falcón and Martínez",60000,15,2020-12-14 14:21:02+00:00,yearly
+97,15,Maldonado Ltd,99000,14,2020-06-07 23:34:37+00:00,upfront
+98,10,Gomila PLC,81000,11,2019-05-06 15:05:09+00:00,upfront
+99,20,Larrañaga LLC,83000,13,2020-11-05 14:32:10+00:00,yearly
+100,10,Ferrer-Atienza,92000,15,2019-09-06 19:58:40+00:00,yearly
