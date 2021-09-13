@@ -1,0 +1,102 @@
+[
+    {
+        "fees_amount":69669,
+        "status":"validated",
+        "date_added":"2017-03-13 11:58:17+00:00"
+    },
+    {
+        "fees_amount":130007,
+        "status":"validated",
+        "date_added":"2019-04-12 03:28:20+00:00"
+    },
+    {
+        "fees_amount":84301,
+        "status":"validated",
+        "date_added":"2017-05-25 21:00:40+00:00"
+    },
+    {
+        "fees_amount":96283,
+        "status":"validated",
+        "date_added":"2018-02-07 04:17:09+00:00"
+    },
+    {
+        "fees_amount":54176,
+        "status":"validated",
+        "date_added":"2019-05-11 05:58:59+00:00"
+    },
+    {
+        "fees_amount":94277,
+        "status":"validated",
+        "date_added":"2018-04-10 07:27:06+00:00"
+    },
+    {
+        "fees_amount":133664,
+        "status":"validated",
+        "date_added":"2017-10-24 21:11:05+00:00"
+    },
+    {
+        "fees_amount":130242,
+        "status":"validated",
+        "date_added":"2017-07-12 06:47:20+00:00"
+    },
+    {
+        "fees_amount":233629,
+        "status":"validated",
+        "date_added":"2017-05-18 19:54:12+00:00"
+    },
+    {
+        "fees_amount":202436,
+        "status":"validated",
+        "date_added":"2017-03-17 22:36:54+00:00"
+    },
+    {
+        "fees_amount":219150,
+        "status":"validated",
+        "date_added":"2017-03-16 17:47:29+00:00"
+    },
+    {
+        "fees_amount":433845,
+        "status":"validated",
+        "date_added":"2017-02-17 23:15:07+00:00"
+    },
+    {
+        "fees_amount":136288,
+        "status":"validated",
+        "date_added":"2017-11-21 10:53:26+00:00"
+    },
+    {
+        "fees_amount":180920,
+        "status":"validated",
+        "date_added":"2017-08-28 13:51:23+00:00"
+    },
+    {
+        "fees_amount":183160,
+        "status":"validated",
+        "date_added":"2017-03-17 14:57:46+00:00"
+    },
+    {
+        "fees_amount":102350,
+        "status":"validated",
+        "date_added":"2017-05-23 03:12:01+00:00"
+    },
+    {
+        "fees_amount":138445,
+        "status":"validated",
+        "date_added":"2017-07-14 22:30:16+00:00"
+    },
+    {
+        "fees_amount":220646,
+        "status":"validated",
+        "date_added":"2017-02-21 21:33:27+00:00"
+    },
+    {
+        "fees_amount":134121,
+        "status":"validated",
+        "date_added":"2018-06-29 00:41:33+00:00"
+    },
+    {
+        "fees_amount":112491,
+        "status":"validated",
+        "date_added":"2017-04-01 03:05:58+00:00"
+    }
+]

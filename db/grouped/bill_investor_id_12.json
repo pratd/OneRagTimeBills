@@ -1,0 +1,90 @@
+[
+    {
+        "id":55,
+        "investor_id":12,
+        "investment_id":64,
+        "fees_amount":65000,
+        "date_added":"2017-02-17 23:15:07+00:00",
+        "fees_type":"upfront"
+    },
+    {
+        "id":54,
+        "investor_id":12,
+        "investment_id":46,
+        "fees_amount":13726,
+        "date_added":"2020-04-24 20:32:43+00:00",
+        "fees_type":"yearly"
+    },
+    {
+        "id":57,
+        "investor_id":12,
+        "investment_id":93,
+        "fees_amount":32400,
+        "date_added":"2021-02-05 17:27:03+00:00",
+        "fees_type":"upfront"
+    },
+    {
+        "id":56,
+        "investor_id":12,
+        "investment_id":67,
+        "fees_amount":46200,
+        "date_added":"2020-08-23 21:19:18+00:00",
+        "fees_type":"upfront"
+    },
+    {
+        "id":53,
+        "investor_id":12,
+        "investment_id":44,
+        "fees_amount":29000,
+        "date_added":"2019-07-30 03:03:22+00:00",
+        "fees_type":"upfront"
+    },
+    {
+        "id":50,
+        "investor_id":12,
+        "investment_id":25,
+        "fees_amount":38250,
+        "date_added":"2019-07-09 08:24:12+00:00",
+        "fees_type":"upfront"
+    },
+    {
+        "id":51,
+        "investor_id":12,
+        "investment_id":35,
+        "fees_amount":38000,
+        "date_added":"2019-01-16 01:28:07+00:00",
+        "fees_type":"upfront"
+    },
+    {
+        "id":52,
+        "investor_id":12,
+        "investment_id":43,
+        "fees_amount":57000,
+        "date_added":"2020-07-26 13:11:44+00:00",
+        "fees_type":"upfront"
+    },
+    {
+        "id":49,
+        "investor_id":12,
+        "investment_id":21,
+        "fees_amount":48300,
+        "date_added":"2020-05-05 21:39:02+00:00",
+        "fees_type":"upfront"
+    },
+    {
+        "id":48,
+        "investor_id":12,
+        "investment_id":3,
+        "fees_amount":17219,
+        "date_added":"2019-05-17 19:28:18+00:00",
+        "fees_type":"yearly"
+    },
+    {
+        "id":47,
+        "investor_id":12,
+        "investment_id":2,
+        "fees_amount":48750,
+        "date_added":"2020-01-19 16:01:26+00:00",
+        "fees_type":"upfront"
+    }
+]

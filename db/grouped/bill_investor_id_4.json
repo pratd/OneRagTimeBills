@@ -1,0 +1,26 @@
+[
+    {
+        "id":16,
+        "investor_id":4,
+        "investment_id":30,
+        "fees_amount":27125,
+        "date_added":"2018-02-25 04:30:06+00:00",
+        "fees_type":"yearly"
+    },
+    {
+        "id":14,
+        "investor_id":4,
+        "investment_id":19,
+        "fees_amount":53900,
+        "date_added":"2018-02-07 04:17:09+00:00",
+        "fees_type":"upfront"
+    },
+    {
+        "id":15,
+        "investor_id":4,
+        "investment_id":20,
+        "fees_amount":15258,
+        "date_added":"2019-05-14 08:28:44+00:00",
+        "fees_type":"yearly"
+    }
+]

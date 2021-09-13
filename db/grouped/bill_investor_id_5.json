@@ -1,0 +1,18 @@
+[
+    {
+        "id":17,
+        "investor_id":5,
+        "investment_id":6,
+        "fees_amount":41000,
+        "date_added":"2019-09-10 20:29:39+00:00",
+        "fees_type":"upfront"
+    },
+    {
+        "id":18,
+        "investor_id":5,
+        "investment_id":57,
+        "fees_amount":13176,
+        "date_added":"2019-05-11 05:58:59+00:00",
+        "fees_type":"yearly"
+    }
+]

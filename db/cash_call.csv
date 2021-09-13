@@ -1,0 +1,101 @@
+,id,total_amount,IBAN,email_send,date_added,Invoice_status
+0,1,69669,"Mastercard
+Dora Valdés
+5594099635534392 05/25
+CVV: 553
+",True,2017-03-13 11:58:17+00:00,paid
+1,2,130007,"American Express
+Marta Sobrino
+345477304990967 04/25
+CID: 3370
+",False,2019-04-12 03:28:20+00:00,overdue
+2,3,84301,"JCB 15 digit
+Nieves Abella
+180057438825038 10/30
+CVC: 848
+",False,2017-05-25 21:00:40+00:00,overdue
+3,4,96283,"Diners Club / Carte Blanche
+Juan José Soria
+38693507293361 06/22
+CVC: 089
+",False,2018-02-07 04:17:09+00:00,paid
+4,5,54176,"VISA 16 digit
+Victoria Ochoa
+4841480194049317 09/25
+CVC: 422
+",True,2019-05-11 05:58:59+00:00,overdue
+5,6,94277,"VISA 16 digit
+Paola Madrigal
+4225833332112163 11/21
+CVC: 106
+",True,2018-04-10 07:27:06+00:00,paid
+6,7,133664,"VISA 16 digit
+Agapito Galvez
+4813642170228355 10/30
+CVC: 436
+",True,2017-10-24 21:11:05+00:00,paid
+7,8,130242,"JCB 15 digit
+Ruy Martorell
+213121448989845 10/21
+CVC: 283
+",True,2017-07-12 06:47:20+00:00,overdue
+8,9,233629,"Diners Club / Carte Blanche
+Azahara Isern
+36710313252167 08/29
+CVC: 464
+",True,2017-05-18 19:54:12+00:00,overdue
+9,10,202436,"VISA 16 digit
+Gregorio Vilalta
+4669798865308046 01/25
+CVC: 807
+",True,2017-03-17 22:36:54+00:00,overdue
+10,11,219150,"JCB 16 digit
+Clotilde Heras
+3530512836893567 02/27
+CVC: 813
+",False,2017-03-16 17:47:29+00:00,overdue
+11,12,433845,"VISA 16 digit
+Ulises Murillo
+4899198207172477 12/21
+CVC: 329
+",True,2017-02-17 23:15:07+00:00,paid
+12,13,136288,"VISA 19 digit
+Bautista Flor
+4894629951526643983 12/29
+CVC: 285
+",False,2017-11-21 10:53:26+00:00,paid
+13,14,180920,"VISA 16 digit
+Jafet Torrents
+4655093973941557 12/26
+CVC: 372
+",False,2017-08-28 13:51:23+00:00,paid
+14,15,183160,"VISA 13 digit
+Joel Franch
+4624028255142 10/23
+CVC: 610
+",True,2017-03-17 14:57:46+00:00,paid
+15,16,102350,"Discover
+Amarilis Barrios
+6011635505968286 09/29
+CVC: 031
+",False,2017-05-23 03:12:01+00:00,paid
+16,17,138445,"American Express
+Valerio Quevedo
+374646228906259 01/26
+CID: 1887
+",True,2017-07-14 22:30:16+00:00,paid
+17,18,220646,"VISA 19 digit
+Marisela Jara
+4817785303401975117 12/29
+CVC: 234
+",False,2017-02-21 21:33:27+00:00,overdue
+18,19,134121,"VISA 13 digit
+Cristian Barbero
+4610175398611 05/21
+CVC: 341
+",False,2018-06-29 00:41:33+00:00,overdue
+19,20,112491,"VISA 16 digit
+Albano Checa
+4470114627106836 04/24
+CVC: 186
+",False,2017-04-01 03:05:58+00:00,overdue

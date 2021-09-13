@@ -1,0 +1,4 @@
+,id,investor_id,investment_id,fees_amount,date_added,fees_type
+15,16,4,30,27125,2018-02-25 04:30:06+00:00,yearly
+13,14,4,19,53900,2018-02-07 04:17:09+00:00,upfront
+14,15,4,20,15258,2019-05-14 08:28:44+00:00,yearly

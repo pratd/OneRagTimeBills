@@ -1,0 +1,58 @@
+[
+    {
+        "id":30,
+        "investor_id":9,
+        "investment_id":4,
+        "fees_amount":57200,
+        "date_added":"2018-11-29 12:16:42+00:00",
+        "fees_type":"upfront"
+    },
+    {
+        "id":31,
+        "investor_id":9,
+        "investment_id":37,
+        "fees_amount":25994,
+        "date_added":"2018-03-16 03:56:05+00:00",
+        "fees_type":"yearly"
+    },
+    {
+        "id":32,
+        "investor_id":9,
+        "investment_id":47,
+        "fees_amount":31584,
+        "date_added":"2017-05-18 19:54:12+00:00",
+        "fees_type":"yearly"
+    },
+    {
+        "id":33,
+        "investor_id":9,
+        "investment_id":65,
+        "fees_amount":35714,
+        "date_added":"2017-07-08 09:09:47+00:00",
+        "fees_type":"yearly"
+    },
+    {
+        "id":34,
+        "investor_id":9,
+        "investment_id":74,
+        "fees_amount":8837,
+        "date_added":"2020-03-21 14:33:52+00:00",
+        "fees_type":"yearly"
+    },
+    {
+        "id":35,
+        "investor_id":9,
+        "investment_id":75,
+        "fees_amount":26000,
+        "date_added":"2020-07-25 20:53:42+00:00",
+        "fees_type":"upfront"
+    },
+    {
+        "id":36,
+        "investor_id":9,
+        "investment_id":76,
+        "fees_amount":48300,
+        "date_added":"2019-05-25 14:03:54+00:00",
+        "fees_type":"upfront"
+    }
+]
